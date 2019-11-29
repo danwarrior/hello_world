@@ -1,3 +1,2 @@
 # hello_world
 first_repository
-Repositorio para almacenar versiones de los modelos...
